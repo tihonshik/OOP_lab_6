@@ -5,3 +5,10 @@ D:\универ\ООП\OOP_lab_5\OOP_lab_5\obj\Debug\OOP_lab_5.csprojResolveAsse
 D:\универ\ООП\OOP_lab_5\OOP_lab_5\obj\Debug\OOP_lab_5.csproj.CoreCompileInputs.cache
 D:\универ\ООП\OOP_lab_5\OOP_lab_5\obj\Debug\OOP_lab_5.exe
 D:\универ\ООП\OOP_lab_5\OOP_lab_5\obj\Debug\OOP_lab_5.pdb
+D:\универ\ООП\OOP_lab_6\OOP_lab_5\bin\Debug\OOP_lab_5.exe.config
+D:\универ\ООП\OOP_lab_6\OOP_lab_5\bin\Debug\OOP_lab_5.exe
+D:\универ\ООП\OOP_lab_6\OOP_lab_5\bin\Debug\OOP_lab_5.pdb
+D:\универ\ООП\OOP_lab_6\OOP_lab_5\obj\Debug\OOP_lab_5.csprojResolveAssemblyReference.cache
+D:\универ\ООП\OOP_lab_6\OOP_lab_5\obj\Debug\OOP_lab_5.csproj.CoreCompileInputs.cache
+D:\универ\ООП\OOP_lab_6\OOP_lab_5\obj\Debug\OOP_lab_5.exe
+D:\универ\ООП\OOP_lab_6\OOP_lab_5\obj\Debug\OOP_lab_5.pdb

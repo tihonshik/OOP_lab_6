@@ -10,16 +10,15 @@ namespace OOP_lab_5
     {
         public static void SortByConsuption(Carrier obj)
         {
-            Vehicle A = new Vehicle();
-            for (int i = 0; i < obj.data.Count; i++)
+            var sortedUsers = from i in obj.data
+                orderby i.consumption
+                select i;
+            foreach (Vehicle i in sortedUsers)
             {
-                A = obj.data.ElementAt(i);
-                if (A.consumption < 10)
-                {
-                    Console.WriteLine($"{A.name} min consuption");
-                }
-
+                Console.WriteLine(i.consumption);
             }
+             
+
         }
 
         public static void ChoiseBySpeed(int min, int max, Carrier obj)
